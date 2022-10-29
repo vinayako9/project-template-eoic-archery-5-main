@@ -1,1 +1,1 @@
-# project-template-eoic-archery-5-main
+# Project Template 26
